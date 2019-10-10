@@ -53,7 +53,7 @@ a:hover {
 
 .kontener .gorna_czesc_kontenera .gorne_menu ul li a {
   float: left;
-  background-color: rgba(85, 145, 241,0.6);
+  background-color: rgba(85, 145, 241,0.85);
   color: white;
   padding: 5px 15px;
   border-top: 3px solid black;
